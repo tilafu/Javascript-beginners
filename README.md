@@ -1,5 +1,5 @@
 ﻿# Javascript-beginners
- This is a repo for new Javascript developers, used by many budding programmers, including myself, to get your feet wet with some vanilla JS. After these challenges, you'll feel more confident in your skills and you'll be able to tackle more advanced challenges. Credit to Brad Traversy for designing the original course.
+ This is a repo for new Javascript developers, used by many budding programmers, myself included, to get your feet wet with some vanilla JS. After these challenges, you'll feel more confident in your skills and you'll be able to tackle more advanced challenges. Credit to Brad Traversy for designing the original course.
 
 
 # License
