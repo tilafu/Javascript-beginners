@@ -7,16 +7,17 @@ body{
     margin: 0px;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: start;
     min-height: 100vh;
     overflow: hidden;
     color: purple;
-    flex-wrap: wrap;
+    background-color: purple;
 }
 
 .container{
     display: flex;
-    width: 90vh;
+    width: 100vh;
+    justify-content: space-between;
     
 }
 
@@ -26,11 +27,12 @@ body{
     background-repeat: no-repeat;
     height: 80vh;
     border-radius: 30px;
-    flex: 0.6;
+    flex: 0.4;
     position: relative;
     transition: flex 0.5s ease-in;
     cursor: pointer;
     margin: 10px;
+    /* justify-content: space-evenly; */
 }
 
 .panel h3{
