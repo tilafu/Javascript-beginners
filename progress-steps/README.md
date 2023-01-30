@@ -1,0 +1,1 @@
+In this tutorial, we will learn how to create a progress step indicator using JavaScript. A progress step indicator is a UI component that displays the progress of a process in multiple steps. It can be used in a variety of applications, such as a checkout process, a multi-step form, or a tutorial.

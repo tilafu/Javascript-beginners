@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,700;1,200&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/css/output.css">
+    
+    <title>Progress steps</title>
+</head>
+<body class="box-border bg-slate-100 font-nunito flex items-center justify-center h-screen overflow-hidden m-0">
+    <div class="items-center">
+        <div class="flex justify-between relative m-6 max-w-full w-72 before:bg-slate-600 before:absolute before:top-1/2 before:left-0 before:-translate-y-1/2 before:h-1 before:w-full before:-z-10">
+            <div class="bg-blue-500 absolute top-1/2 left-0 -translate-y-0.5 h-1 w-0 -z-10 transition duration-300 ease-in"></div>
+            <div class="circle active">1</div>
+            <div class="circle">2</div>
+            <div class="circle">3</div>
+            <div class="circle">4</div>
+        </div>
+
+        <button class="btn prev" disabled>Prev</button>
+        <button class="btn next">Next</button>
+
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
