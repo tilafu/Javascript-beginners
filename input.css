@@ -1,3 +1,27 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.circle {
+  @apply bg-slate-400 text-blue-500 rounded-md h-5 w-5 flex items-center justify-center border-slate-500 border-solid transition ease-in duration-300;
+}
+
+.active {
+  @apply border-blue-900;
+}
+
+.btn {
+  @apply bg-blue-500 text-white rounded-md h-5 w-5 flex items-center justify-center border-blue-500 border-solid transition ease-in duration-300;
+}
+
+.active {
+  @apply transform scale-75;
+}
+
+.focus{
+  @apply outline-none;
+}
+
+.disabled{
+  @apply bg-slate-400 cursor-not-allowed;
+}
