@@ -14,7 +14,7 @@ HTTP Requests
 Animations
 And more!
 How to use this repository
-Clone the repository to your local machine using git clone https://github.com/tilafu/50-js-projects-tailwind.git
+Clone the repository to your local machine using git clone https://github.com/tilafu/Javascript-beginners.git
 Install the dependencies by running npm install
 Start a project by opening its folder and running the index.html file in your browser
 Experiment with the code and CSS styles to enhance your understanding and skills!
@@ -22,7 +22,7 @@ Dependencies
 This repository uses the following dependencies:
 
 JavaScript (ES6+)
-Bootstrap v5 (v2.x)
+Bootstrap v5,1 (jquery 3.6.3)
 A modern web browser
 Contribution
 We welcome contributions to this repository! If you have a suggestion for a new project or if you found a bug, please feel free to create a pull request or issue.
